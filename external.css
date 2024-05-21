@@ -1,0 +1,54 @@
+.footer{
+            	background-color: #DCD0FE;
+            	background-image: linear-gradient(to right,#8F92FB -50%,#FEB1F5 50%);
+                padding: 8px solid;
+                justify-content: center;
+                padding: .5px;
+                padding-left: 18px;
+            }
+    
+  
+            .info{
+            	width:100px
+                margin-top: 40px;
+                border:14px outset #FEE5F8;
+                width:380px;
+                background-color:#FEE5F8;
+                height: 270px;
+                margin: 10px;
+                justify-content:center;
+                flex-wrap: wrap;
+                display: flex;
+                align-items:center;
+            }
+
+            
+            body{
+            	background-image: url(https://cdn.britannica.com/25/94425-050-3F8214E0/Fishing-boat-Boracay-Island-Philippines.jpg);
+                background-size: cover;
+                background-position: center;
+                background-repeat: no repeat;
+                color:#D94496;
+                font-family: "Briem Hand", cursive;
+                font-optical-sizing: auto;
+                font-weight: 400;
+                font-style: normal;
+
+                
+
+           }
+            .container{
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                text-align: center;
+
+            }
+            
+           .container img{
+            width:380px;
+           }
+
+           .container .text{
+            text-align: center;
+           }
